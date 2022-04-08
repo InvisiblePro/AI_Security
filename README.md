@@ -9,7 +9,7 @@
     -opencv-contrib-python
     -os*
  
- *os module isn't required to install
+ *os module is pre-installed with python
  
 <br/> 
  
