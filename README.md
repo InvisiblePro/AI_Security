@@ -38,4 +38,4 @@ names=['person1','person2'] # give these names as same array index as of Face ID
 <br/>
 <hr>
 
-[![](https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github)](https://github.com/InvisiblePro)
+[<img src="https://img.shields.io/badge/GitHub-InvisiblePro-blue?logo=github&style=for-the-badge" alt="InvisiblePro">](https://github.com/InvisiblePro)
