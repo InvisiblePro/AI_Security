@@ -10,4 +10,6 @@
     -os
  
  
+ 
+ 
 Just download the `Downloads.zip` file or `git clone https://github.com/InvisiblePro/AI_Security.git` and install all requirements from `requirements.txt` using `pip install -r requirements.txt` and get your model ready!..
