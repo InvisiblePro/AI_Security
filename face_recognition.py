@@ -56,7 +56,7 @@ faceCascade = cv2.CascadeClassifier(cascadePath) # getting xml data to locate fa
 
 
 id=2 
-names = ['Dhyey',''] # this id
+names = ['person1','person2'] # give these as same as Face ID:
 
 cam = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 out = cv2.VideoWriter(filename, get_video_type(filename), 25, get_dims(cam, res))
