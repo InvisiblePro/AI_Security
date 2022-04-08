@@ -1,4 +1,4 @@
-# AI_Security
+# AI_Security    [![](https://img.shields.io/badge/Language-Python-blue?logo=python&style=for-the-badge)](https://www.python.org/)
 
 ### This is an AI based project which specifically on `Computer Vision` domain.
 
