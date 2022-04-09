@@ -6,10 +6,12 @@
 
 > Moudules reuired:
  
-    -opencv-contrib-python
+    -opencv-contrib-python**
     -os*
  
  *os module is pre-installed with python
+ <br/>
+ **specially recommended to use `opencv-contrib-python`, plz don't use `opencv-python`
  
 <br/> 
  
