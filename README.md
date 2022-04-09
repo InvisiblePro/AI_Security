@@ -11,7 +11,7 @@
  
  *os module is pre-installed with python
  <br/>
- **specially recommended to use `opencv-contrib-python`, plz don't use `opencv-python`
+ **specially recommended to use `opencv-contrib-python`, plz don't use `opencv-python`; if you have `opencv-python` plz do uninstall it first!
  
 <br/> 
  
