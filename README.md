@@ -35,7 +35,7 @@ names=['person1','person2'] # give these names as same array index as of Face ID
 
 6. After closing window by pressing `escape` key, you will get `output_data` folder in which you will find a recording of camera and 2 log files.
 
-7. Great if you haven''t got errors.....    You are done 👍🏻👍🏻
+7. Great! If you haven't get any errors.....    You are done 👍🏻👍🏻
 
 <br/>
 <hr>
